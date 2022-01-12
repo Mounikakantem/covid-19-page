@@ -1,0 +1,55 @@
+.heading {
+    background-color: hsl(44, 74%, 49%);
+    color:white;
+    font-size:1rem;
+    border: #a55b2a 2px solid;
+}
+legend {
+    color:yellowgreen
+} */
+
+body {
+    margin:150px; 
+   
+
+}
+.my-info {
+    align-items: center; 
+    display: flex; 
+    margin:150px; 
+    position:relative;
+    top:50%; 
+    left:25%; 
+    padding:15px;
+    
+    
+} 
+
+
+
+
+.address{
+    background-color:rgb(246, 253, 144) ;
+    border : 2px solid  brown;
+
+}
+
+[type = 'email'] {
+    border : 2px solid brown;
+    background-color:rgb(246, 253, 144)
+}
+[type = "password"] {
+
+    border : 2px solid brown;
+    background-color:rgb(246, 253, 144)
+}   
+[type = "radio"] {
+
+    border : 2px solid brown;
+}   
+   
+[type = "submit"] {
+
+    border : 2px solid brown;
+    background-color:rgb(246, 253, 144)
+}   
